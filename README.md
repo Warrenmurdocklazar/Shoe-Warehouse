@@ -11,7 +11,7 @@ iv)Credits
 i)Using key principles of OOP this project was created to effectively manage the stock in a shoe warehouse. Once shoes have been read into the program via a txt file, the program can then:
 
     Search for a specific shoe using a unique code
-    Return the cost of a specifc shoe
+    Return the cost of a specific shoe
     Tell you the value of the shoe it's cost and quantity
     Tell you which shoes have the lowest stock and ask if you want to add more
     Tell you which shoes have the highest stock and put this item on sale
